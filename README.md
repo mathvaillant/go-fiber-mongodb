@@ -1,4 +1,4 @@
-### Go, Fiber & MongoDB app
+# Go, Fiber & MongoDB app
 
 ## To run the project:
 - Create a .env file and add the variables
