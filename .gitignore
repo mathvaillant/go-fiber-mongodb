@@ -1,5 +1,2 @@
 # Ignore env files
 **env
-
-# Ignore Compose file per environment.
-docker-compose.yaml
